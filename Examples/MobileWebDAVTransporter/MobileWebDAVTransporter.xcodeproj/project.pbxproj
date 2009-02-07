@@ -15,7 +15,7 @@
 		092B2CF40F3B239200D066E6 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 092B2CF30F3B239200D066E6 /* SystemConfiguration.framework */; };
 		092B2CF80F3B239F00D066E6 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 092B2CF70F3B239F00D066E6 /* CFNetwork.framework */; };
 		092B2D090F3B2CA700D066E6 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 092B2D080F3B2CA700D066E6 /* Settings.bundle */; };
-		096E689A0F3DCE5A003CDA0A /* Test.txt in Resources */ = {isa = PBXBuildFile; fileRef = 096E68990F3DCE5A003CDA0A /* Test.txt */; };
+		09A87DDF0F3E25C90095C627 /* test.dat in Resources */ = {isa = PBXBuildFile; fileRef = 09A87DDE0F3E25C90095C627 /* test.dat */; };
 		1D3623260D0F684500981E51 /* MobileWebDAVTransporterAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* MobileWebDAVTransporterAppDelegate.m */; };
 		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
 		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
@@ -37,7 +37,7 @@
 		092B2CF30F3B239200D066E6 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		092B2CF70F3B239F00D066E6 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
 		092B2D080F3B2CA700D066E6 /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
-		096E68990F3DCE5A003CDA0A /* Test.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Test.txt; sourceTree = "<group>"; };
+		09A87DDE0F3E25C90095C627 /* test.dat */ = {isa = PBXFileReference; lastKnownFileType = file; path = test.dat; sourceTree = "<group>"; };
 		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		1D3623240D0F684500981E51 /* MobileWebDAVTransporterAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MobileWebDAVTransporterAppDelegate.h; sourceTree = "<group>"; };
 		1D3623250D0F684500981E51 /* MobileWebDAVTransporterAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MobileWebDAVTransporterAppDelegate.m; sourceTree = "<group>"; };
@@ -125,9 +125,9 @@
 			children = (
 				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
 				092B2CEE0F3B231700D066E6 /* TestOptionsView.xib */,
+				09A87DDE0F3E25C90095C627 /* test.dat */,
 				8D1107310486CEB800E47090 /* Info.plist */,
 				092B2D080F3B2CA700D066E6 /* Settings.bundle */,
-				096E68990F3DCE5A003CDA0A /* Test.txt */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -189,7 +189,7 @@
 				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
 				092B2CEF0F3B231700D066E6 /* TestOptionsView.xib in Resources */,
 				092B2D090F3B2CA700D066E6 /* Settings.bundle in Resources */,
-				096E689A0F3DCE5A003CDA0A /* Test.txt in Resources */,
+				09A87DDF0F3E25C90095C627 /* test.dat in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

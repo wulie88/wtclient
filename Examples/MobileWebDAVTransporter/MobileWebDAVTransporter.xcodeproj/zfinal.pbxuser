@@ -4,7 +4,7 @@
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {946, 1064}}";
 			sepNavSelRange = "{2553, 92}";
-			sepNavVisRange = "{0, 1249}";
+			sepNavVisRange = "{0, 1113}";
 		};
 	};
 	092B2CE30F3B22E200D066E6 /* WTClient.m */ = {
@@ -37,9 +37,9 @@
 	};
 	092B2CE90F3B22EC00D066E6 /* TestController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1171, 3976}}";
-			sepNavSelRange = "{26, 16}";
-			sepNavVisRange = "{0, 1321}";
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 3948}}";
+			sepNavSelRange = "{952, 0}";
+			sepNavVisRange = "{0, 1314}";
 			sepNavWindowFrame = "{{38, 146}, {1005, 706}}";
 		};
 	};
@@ -47,14 +47,14 @@
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1171, 714}}";
 			sepNavSelRange = "{51, 0}";
-			sepNavVisRange = "{0, 942}";
+			sepNavVisRange = "{0, 1069}";
 		};
 	};
 	092B2CEB0F3B22EC00D066E6 /* TransferStatusController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1171, 2240}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 2254}}";
 			sepNavSelRange = "{51, 0}";
-			sepNavVisRange = "{0, 844}";
+			sepNavVisRange = "{0, 971}";
 		};
 	};
 	092B2D170F3B4C9900D066E6 /* PBXTextBookmark */ = {
@@ -118,6 +118,8 @@
 		executableUserSymbolLevel = 0;
 		libgmallocEnabled = 0;
 		name = MobileWebDAVTransporter;
+		savedGlobals = {
+		};
 		sourceDirectories = (
 		);
 	};
@@ -134,8 +136,14 @@
 		indexTemplatePath = "";
 	};
 	096E68990F3DCE5A003CDA0A /* Test.txt */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text;
+		name = Test.txt;
+		path = /Users/zfinal/Projects/MobileWebDAVTransporter/Test.txt;
+		sourceTree = "<absolute>";
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1171, 501}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 524}}";
 			sepNavSelRange = "{72, 0}";
 			sepNavVisRange = "{0, 72}";
 		};
@@ -801,6 +809,228 @@
 		vrLen = 1249;
 		vrLoc = 0;
 	};
+	09A87DE40F3E26BA0095C627 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 092B2CE80F3B22EC00D066E6 /* TestController.h */;
+		name = "TestController.h: 4";
+		rLen = 121;
+		rLoc = 33;
+		rType = 0;
+		vrLen = 1072;
+		vrLoc = 0;
+	};
+	09A87DE50F3E26BA0095C627 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MobileWebDAVTransporterAppDelegate.h */;
+		name = "MobileWebDAVTransporterAppDelegate.h: 5";
+		rLen = 0;
+		rLoc = 61;
+		rType = 0;
+		vrLen = 589;
+		vrLoc = 0;
+	};
+	09A87DE60F3E26BA0095C627 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MobileWebDAVTransporterAppDelegate.m */;
+		name = "MobileWebDAVTransporterAppDelegate.m: 38";
+		rLen = 0;
+		rLoc = 964;
+		rType = 0;
+		vrLen = 964;
+		vrLoc = 0;
+	};
+	09A87DE70F3E26BA0095C627 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/zfinal/Projects/MobileWebDAVTransporter/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	09A87DE80F3E26BA0095C627 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 092B2CEA0F3B22EC00D066E6 /* TransferStatusController.h */;
+		name = "TransferStatusController.h: 4";
+		rLen = 0;
+		rLoc = 51;
+		rType = 0;
+		vrLen = 1069;
+		vrLoc = 0;
+	};
+	09A87DE90F3E26BA0095C627 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 092B2CEB0F3B22EC00D066E6 /* TransferStatusController.m */;
+		name = "TransferStatusController.m: 4";
+		rLen = 0;
+		rLoc = 51;
+		rType = 0;
+		vrLen = 971;
+		vrLoc = 0;
+	};
+	09A87DEA0F3E26BA0095C627 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 092B2CE90F3B22EC00D066E6 /* TestController.m */;
+		name = "TestController.m: 3";
+		rLen = 16;
+		rLoc = 26;
+		rType = 0;
+		vrLen = 1437;
+		vrLoc = 0;
+	};
+	09A87DEB0F3E26BA0095C627 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 092B2CE90F3B22EC00D066E6 /* TestController.m */;
+		name = "TestController.m: 280";
+		rLen = 0;
+		rLoc = 9702;
+		rType = 0;
+		vrLen = 1397;
+		vrLoc = 3105;
+	};
+	09A87DEC0F3E26BA0095C627 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 092B2CEB0F3B22EC00D066E6 /* TransferStatusController.m */;
+		name = "TransferStatusController.m: 10";
+		rLen = 0;
+		rLoc = 292;
+		rType = 0;
+		vrLen = 870;
+		vrLoc = 0;
+	};
+	09A87DED0F3E26BA0095C627 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 092B2CE90F3B22EC00D066E6 /* TestController.m */;
+		name = "TestController.m: 280";
+		rLen = 0;
+		rLoc = 9702;
+		rType = 0;
+		vrLen = 1325;
+		vrLoc = 0;
+	};
+	09A87DEE0F3E26BA0095C627 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 092B2CE80F3B22EC00D066E6 /* TestController.h */;
+		name = "TestController.h: 4";
+		rLen = 121;
+		rLoc = 33;
+		rType = 0;
+		vrLen = 1072;
+		vrLoc = 0;
+	};
+	09A87DEF0F3E26BA0095C627 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 092B2CE90F3B22EC00D066E6 /* TestController.m */;
+		name = "TestController.m: 3";
+		rLen = 16;
+		rLoc = 26;
+		rType = 0;
+		vrLen = 1321;
+		vrLoc = 0;
+	};
+	09A87DF00F3E26BA0095C627 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 092B2CEA0F3B22EC00D066E6 /* TransferStatusController.h */;
+		name = "TransferStatusController.h: 5";
+		rLen = 0;
+		rLoc = 51;
+		rType = 0;
+		vrLen = 942;
+		vrLoc = 0;
+	};
+	09A87DF10F3E26BA0095C627 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 092B2CEB0F3B22EC00D066E6 /* TransferStatusController.m */;
+		name = "TransferStatusController.m: 5";
+		rLen = 0;
+		rLoc = 51;
+		rType = 0;
+		vrLen = 844;
+		vrLoc = 0;
+	};
+	09A87DF20F3E26BA0095C627 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MobileWebDAVTransporterAppDelegate.h */;
+		name = "MobileWebDAVTransporterAppDelegate.h: 5";
+		rLen = 0;
+		rLoc = 61;
+		rType = 0;
+		vrLen = 589;
+		vrLoc = 0;
+	};
+	09A87DF30F3E26BA0095C627 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MobileWebDAVTransporterAppDelegate.m */;
+		name = "MobileWebDAVTransporterAppDelegate.m: 38";
+		rLen = 0;
+		rLoc = 964;
+		rType = 0;
+		vrLen = 964;
+		vrLoc = 0;
+	};
+	09A87DF40F3E26BA0095C627 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/zfinal/Projects/MobileWebDAVTransporter/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	09A87DF50F3E26BA0095C627 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 092B2CEA0F3B22EC00D066E6 /* TransferStatusController.h */;
+		name = "TransferStatusController.h: 4";
+		rLen = 0;
+		rLoc = 51;
+		rType = 0;
+		vrLen = 1069;
+		vrLoc = 0;
+	};
+	09A87DF60F3E26BA0095C627 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 092B2CE90F3B22EC00D066E6 /* TestController.m */;
+		name = "TestController.m: 3";
+		rLen = 16;
+		rLoc = 26;
+		rType = 0;
+		vrLen = 1437;
+		vrLoc = 0;
+	};
+	09A87DF70F3E26BA0095C627 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 092B2CEB0F3B22EC00D066E6 /* TransferStatusController.m */;
+		name = "TransferStatusController.m: 4";
+		rLen = 0;
+		rLoc = 51;
+		rType = 0;
+		vrLen = 971;
+		vrLoc = 0;
+	};
+	09A87DF80F3E26BA0095C627 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 092B2CE90F3B22EC00D066E6 /* TestController.m */;
+		name = "TestController.m: 28";
+		rLen = 0;
+		rLoc = 952;
+		rType = 0;
+		vrLen = 1314;
+		vrLoc = 0;
+	};
+	09A87DF90F3E26BA0095C627 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 092B2CE20F3B22E200D066E6 /* WTClient.h */;
+		name = "WTClient.h: 73";
+		rLen = 92;
+		rLoc = 2553;
+		rType = 0;
+		vrLen = 1113;
+		vrLoc = 0;
+	};
 	1D3623240D0F684500981E51 /* MobileWebDAVTransporterAppDelegate.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1171, 524}}";
@@ -810,9 +1040,9 @@
 	};
 	1D3623250D0F684500981E51 /* MobileWebDAVTransporterAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1171, 524}}";
-			sepNavSelRange = "{43, 0}";
-			sepNavVisRange = "{0, 747}";
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 532}}";
+			sepNavSelRange = "{964, 0}";
+			sepNavVisRange = "{0, 964}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* MobileWebDAVTransporter */ = {
@@ -951,6 +1181,28 @@
 			09A87DD90F3E24D60095C627 /* PBXTextBookmark */ = 09A87DD90F3E24D60095C627 /* PBXTextBookmark */;
 			09A87DDA0F3E24D60095C627 /* PBXTextBookmark */ = 09A87DDA0F3E24D60095C627 /* PBXTextBookmark */;
 			09A87DDB0F3E24D60095C627 /* PBXTextBookmark */ = 09A87DDB0F3E24D60095C627 /* PBXTextBookmark */;
+			09A87DE40F3E26BA0095C627 /* PBXTextBookmark */ = 09A87DE40F3E26BA0095C627 /* PBXTextBookmark */;
+			09A87DE50F3E26BA0095C627 /* PBXTextBookmark */ = 09A87DE50F3E26BA0095C627 /* PBXTextBookmark */;
+			09A87DE60F3E26BA0095C627 /* PBXTextBookmark */ = 09A87DE60F3E26BA0095C627 /* PBXTextBookmark */;
+			09A87DE70F3E26BA0095C627 /* PlistBookmark */ = 09A87DE70F3E26BA0095C627 /* PlistBookmark */;
+			09A87DE80F3E26BA0095C627 /* PBXTextBookmark */ = 09A87DE80F3E26BA0095C627 /* PBXTextBookmark */;
+			09A87DE90F3E26BA0095C627 /* PBXTextBookmark */ = 09A87DE90F3E26BA0095C627 /* PBXTextBookmark */;
+			09A87DEA0F3E26BA0095C627 /* PBXTextBookmark */ = 09A87DEA0F3E26BA0095C627 /* PBXTextBookmark */;
+			09A87DEB0F3E26BA0095C627 /* PBXTextBookmark */ = 09A87DEB0F3E26BA0095C627 /* PBXTextBookmark */;
+			09A87DEC0F3E26BA0095C627 /* PBXTextBookmark */ = 09A87DEC0F3E26BA0095C627 /* PBXTextBookmark */;
+			09A87DED0F3E26BA0095C627 /* PBXTextBookmark */ = 09A87DED0F3E26BA0095C627 /* PBXTextBookmark */;
+			09A87DEE0F3E26BA0095C627 /* PBXTextBookmark */ = 09A87DEE0F3E26BA0095C627 /* PBXTextBookmark */;
+			09A87DEF0F3E26BA0095C627 /* PBXTextBookmark */ = 09A87DEF0F3E26BA0095C627 /* PBXTextBookmark */;
+			09A87DF00F3E26BA0095C627 /* PBXTextBookmark */ = 09A87DF00F3E26BA0095C627 /* PBXTextBookmark */;
+			09A87DF10F3E26BA0095C627 /* PBXTextBookmark */ = 09A87DF10F3E26BA0095C627 /* PBXTextBookmark */;
+			09A87DF20F3E26BA0095C627 /* PBXTextBookmark */ = 09A87DF20F3E26BA0095C627 /* PBXTextBookmark */;
+			09A87DF30F3E26BA0095C627 /* PBXTextBookmark */ = 09A87DF30F3E26BA0095C627 /* PBXTextBookmark */;
+			09A87DF40F3E26BA0095C627 /* PlistBookmark */ = 09A87DF40F3E26BA0095C627 /* PlistBookmark */;
+			09A87DF50F3E26BA0095C627 /* PBXTextBookmark */ = 09A87DF50F3E26BA0095C627 /* PBXTextBookmark */;
+			09A87DF60F3E26BA0095C627 /* PBXTextBookmark */ = 09A87DF60F3E26BA0095C627 /* PBXTextBookmark */;
+			09A87DF70F3E26BA0095C627 /* PBXTextBookmark */ = 09A87DF70F3E26BA0095C627 /* PBXTextBookmark */;
+			09A87DF80F3E26BA0095C627 /* PBXTextBookmark */ = 09A87DF80F3E26BA0095C627 /* PBXTextBookmark */;
+			09A87DF90F3E26BA0095C627 /* PBXTextBookmark */ = 09A87DF90F3E26BA0095C627 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 092F03050F3B22B60041A741 /* Source Control */;
 		userBuildSettings = {
