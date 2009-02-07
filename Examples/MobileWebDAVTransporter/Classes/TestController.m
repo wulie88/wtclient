@@ -198,11 +198,11 @@
     }
 }
 
-- (void)transferClient:(WTClient *)client didSendBytes:(long long)bytesWritten {
+- (void)transferClient:(WTClient *)client didSendBytes:(unsigned long long)bytesWritten {
     [self.transferStatusController setProgressMessage:[NSString stringWithFormat:@"%quKb of %quKb sent", bytesWritten/1024, estimatedLength/1024]];
 }
 
-- (void)transferClient:(WTClient *)client didReceiveBytes:(long long)bytesReceived {
+- (void)transferClient:(WTClient *)client didReceiveBytes:(unsigned long long)bytesReceived {
     [self.transferStatusController setProgressMessage:[NSString stringWithFormat:@"%quKb of %quKb received", bytesReceived/1024, estimatedLength/1024]];
 }
 
