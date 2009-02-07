@@ -65,8 +65,8 @@
 
 @optional
 
-- (void)HTTPConnection:(WTHTTPConnection *)connection didSendBytes:(long long)amountOfBytes;
-- (void)HTTPConnection:(WTHTTPConnection *)connection didReceiveBytes:(long long)amountOfBytes;
+- (void)HTTPConnection:(WTHTTPConnection *)connection didSendBytes:(unsigned long long)amountOfBytes;
+- (void)HTTPConnection:(WTHTTPConnection *)connection didReceiveBytes:(unsigned long long)amountOfBytes;
 
 - (void)HTTPConnectionDidBeginEstablishingConnection:(WTHTTPConnection *)connection;
 - (void)HTTPConnectionDidEstablish:(WTHTTPConnection *)connection;
