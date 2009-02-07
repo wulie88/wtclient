@@ -25,9 +25,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.localFilenameTextField.text = [[NSUserDefaults standardUserDefaults] valueForKey:@"localFilename"];
-    self.localFilenameTextField.placeholder = @"https://idisk.mac.com/user/Test.txt";
+    self.localFilenameTextField.placeholder = @"test.dat";
     self.remoteURLTextField.text = [[NSUserDefaults standardUserDefaults] valueForKey:@"remoteURL"];
-    self.remoteURLTextField.placeholder = @"Test.txt";
+    self.remoteURLTextField.placeholder = @"https://idisk.mac.com/user/test.dat";
 }
 
 - (IBAction)uploadFile:(id)sender {

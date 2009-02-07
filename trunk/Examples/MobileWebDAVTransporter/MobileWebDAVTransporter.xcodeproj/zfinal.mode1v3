@@ -216,7 +216,7 @@
 						<key>_historyCapacity</key>
 						<integer>0</integer>
 						<key>bookmark</key>
-						<string>09A87DDB0F3E24D60095C627</string>
+						<string>09A87DF90F3E26BA0095C627</string>
 						<key>history</key>
 						<array>
 							<string>09A87DBF0F3E24630095C627</string>
@@ -272,8 +272,6 @@
 			<key>Layout</key>
 			<array>
 				<dict>
-					<key>BecomeActive</key>
-					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -360,6 +358,8 @@
 					<key>Dock</key>
 					<array>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -377,22 +377,21 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>09A87DDA0F3E24D60095C627</string>
+										<string>09A87DF80F3E26BA0095C627</string>
 										<key>history</key>
 										<array>
-											<string>096E68B60F3DF02C003CDA0A</string>
 											<string>096E68B70F3DF02C003CDA0A</string>
 											<string>096E68B80F3DF02C003CDA0A</string>
-											<string>096E68BC0F3DF02C003CDA0A</string>
-											<string>098B54A60F3E0B6E00D1A4A6</string>
-											<string>098B54A70F3E0B6E00D1A4A6</string>
-											<string>098B54A80F3E0B6E00D1A4A6</string>
-											<string>098B54A90F3E0B6E00D1A4A6</string>
-											<string>09A87DA80F3E18FD0095C627</string>
 											<string>09A87DA90F3E18FD0095C627</string>
 											<string>09A87DAA0F3E18FD0095C627</string>
 											<string>09A87DD70F3E24D60095C627</string>
-											<string>09A87DD80F3E24D60095C627</string>
+											<string>09A87DE40F3E26BA0095C627</string>
+											<string>09A87DE50F3E26BA0095C627</string>
+											<string>09A87DE60F3E26BA0095C627</string>
+											<string>09A87DE70F3E26BA0095C627</string>
+											<string>09A87DE80F3E26BA0095C627</string>
+											<string>09A87DE90F3E26BA0095C627</string>
+											<string>09A87DEA0F3E26BA0095C627</string>
 										</array>
 										<key>prevStack</key>
 										<array>
@@ -402,7 +401,6 @@
 											<string>092B2D1E0F3B4C9900D066E6</string>
 											<string>096E68BF0F3DF02C003CDA0A</string>
 											<string>096E68C10F3DF02C003CDA0A</string>
-											<string>096E68C20F3DF02C003CDA0A</string>
 											<string>096E68C40F3DF02C003CDA0A</string>
 											<string>096E68C90F3DF02C003CDA0A</string>
 											<string>098B54AF0F3E0B6E00D1A4A6</string>
@@ -410,6 +408,19 @@
 											<string>09A87DAD0F3E18FD0095C627</string>
 											<string>09A87DAE0F3E18FD0095C627</string>
 											<string>09A87DD90F3E24D60095C627</string>
+											<string>09A87DEB0F3E26BA0095C627</string>
+											<string>09A87DEC0F3E26BA0095C627</string>
+											<string>09A87DED0F3E26BA0095C627</string>
+											<string>09A87DEE0F3E26BA0095C627</string>
+											<string>09A87DEF0F3E26BA0095C627</string>
+											<string>09A87DF00F3E26BA0095C627</string>
+											<string>09A87DF10F3E26BA0095C627</string>
+											<string>09A87DF20F3E26BA0095C627</string>
+											<string>09A87DF30F3E26BA0095C627</string>
+											<string>09A87DF40F3E26BA0095C627</string>
+											<string>09A87DF50F3E26BA0095C627</string>
+											<string>09A87DF60F3E26BA0095C627</string>
+											<string>09A87DF70F3E26BA0095C627</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -603,11 +614,13 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>09A87DFA0F3E26BA0095C627</string>
+		<string>09A87DFB0F3E26BA0095C627</string>
 		<string>1CD10A99069EF8BA00B06720</string>
 		<string>092B2CF10F3B238300D066E6</string>
 		<string>09A87DCB0F3E248B0095C627</string>
-		<string>1C78EAAD065D492600B07095</string>
 		<string>/Users/zfinal/Projects/MobileWebDAVTransporter/MobileWebDAVTransporter.xcodeproj</string>
+		<string>1C78EAAD065D492600B07095</string>
 	</array>
 	<key>WindowString</key>
 	<string>0 118 1440 760 0 0 1440 878 </string>
